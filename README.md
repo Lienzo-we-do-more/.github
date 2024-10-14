@@ -42,6 +42,6 @@ Ready to take control of your software licenses? [Get started with Lienzo](https
 
 ---
 
-Developed with ❤️ by the Lienzo team | [Contact Us](mailto:support@lienzo.com)
+Developed with ❤️ by the OonkoO team | [Contact Us](mailto:oonkoo.mail@gmail.com)
 
 Lienzo - Because managing licenses should be effortless.
